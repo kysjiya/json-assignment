@@ -1,0 +1,98 @@
+[
+{
+  "productname":"headphone",
+  "productdescription": "Razer Nari Ultimate Wireless 7.1 Surround Sound Gaming Headset: THX Audio & Haptic Feedback - Auto-Adjust Headband - Chroma RGB - Retractable Mic - For PC, PS4, PS5 - Black",
+  "productprice": 100,
+  "productrating": 1.0,
+  "productimage": "https://m.media-amazon.com/images/I/81f6DNi4TFL._AC_SX679_.jpg"
+},
+
+{
+  "productname":"monitor",
+  "productdescription": "Sceptre 24 Professional Thin 75Hz 1080p LED Monitor 2x HDMI VGA Build-in Speakers, Machine Black (E248W-19203R Series)",
+  "productprice": 105,
+  "productrating": 1.5,
+  "productimage":  "https://m.media-amazon.com/images/I/81QpkIctqPL._AC_SX679_.jpg"
+},
+
+{
+  "productname":"keyboard",
+  "productdescription": "Razer BlackWidow V4 Pro Wired Mechanical Gaming Keyboard: Yellow Mechanical Switches - Linear & Silent - Doubleshot ABS Keycaps - Command Dial - Programmable Macros - Chroma RGB - Magnetic Wrist Rest",
+  "productprice": 229,
+  "productrating": 2.9,
+  "productimage":  "https://m.media-amazon.com/images/I/81L4FpeS3VL._AC_SX679_.jpg"
+},
+
+{
+  "productname":"mouse",
+  "productdescription": "Razer DeathAdder V3 Wired Gaming Mouse: 59g Ultra Lightweight - Pro 30K Optical Sensor - Fast Optical Switches Gen-3-8K Hz HyperPolling - 6 Programmable Buttons - Ergonomic - Speedflex Cable - Black",
+  "productprice":  59 ,
+  "productrating": 5.0,
+  "productimage": "https://m.media-amazon.com/images/I/61QdKZP26rS._AC_SL1500_.jpg"
+},
+
+{
+  "productname": "laptop", 
+  "productdescription": "Lenovo - 2022 - IdeaPad Gaming 3 - Essential Gaming Laptop Computer - 15.6 FHD - 120Hz - IdeaPad Gaming RTX 3050 - 256GB NVMe Storage - NVIDIA GeForce RTX 3050 Graphics - Windows 11 Home",
+  "productprice": 899,
+  "productrating": 3.9,
+  "productimage": "https://m.media-amazon.com/images/I/81+9W1bYZyL._AC_SX425_.jpg"
+},
+
+{
+  "productname":"controllers",
+  "productdescription": "Turtle Beach Recon Controller Wired Gaming Controller for Xbox Series X|S, Xbox One & Windows 10 & 11 PCs - Featuring Remappable Buttons, Audio Enhancements, and Superhuman Hearing - Black",
+  "productprice":  69,
+  "productrating":  4.9,
+  "productimage": "https://m.media-amazon.com/images/I/8130In24StL._SX466_.jpg"
+},
+
+{
+  "productname":  "Xbox",
+  "productdescription": "Microsoft FMQ-00042 Console, 18.5 x 12 x 5, Black",
+  "productprice":  449 ,
+  "productrating":  4.9,
+  "productimage":  "https://m.media-amazon.com/images/I/71AbYCAvr-L._SX466_.jpg"
+},
+
+{
+  "productname": "playstation",
+  "productdescription": "Sony Playstation Portable PSP 3000 Series Handheld Gaming Console System (Mystic Silver) (Renewed)",
+  "productprice": 209,
+  "productrating": 2.9,
+  "productimage": "https://m.media-amazon.com/images/I/314e2Ob4fpL._SY300_SX300_QL70_FMwebp_.jpg"
+},
+
+{
+  "productname":  "PSP", 
+  "productdescription": "Sony Playstation Portable PSP 3000 Series Handheld Gaming Console System (Black) (Renewed)",
+  "productprice":   219,
+  "productrating": 3.9,
+  "productimage": "https://m.media-amazon.com/images/I/314e2Ob4fpL._SY300_SX300_QL70_FMwebp_.jpg"
+},
+
+{
+  "productname": "VR",
+  "productdescription": "Meta Quest 2 — Advanced All-In-One Virtual Reality Headset — 256 GB Get Meta Quest 2 with GOLF+ and Space Pirate Trainer DX included",
+  "productprice": 429,
+  "productrating": 2.9,
+  "productimage": "https://m.media-amazon.com/images/I/710yeNqefxL._SX466_.jpg"
+}
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
